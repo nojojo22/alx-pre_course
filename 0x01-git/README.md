@@ -1,3 +1,1 @@
-gitpedogogy
-alxcoaching
-its much fun
+My first readme
